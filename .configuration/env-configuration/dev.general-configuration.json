@@ -2,8 +2,8 @@
     "COMMON": {
         "STACK_VERSION": "1.0.0",
         "PROJECT_NAME": "Slenti",
-        "AWS_ACCOUNT_ID": "THE-ID-OF-YOUR-AWS-ACCOUNT",
-        "AWS_REGION": "THE-REGION"
+        "AWS_ACCOUNT_ID": "315961771263",
+        "AWS_REGION": "eu-west-1"
     },
     "INFRASTRUCTURE": {
         "SERVERLESS": {
@@ -17,7 +17,7 @@
             },
             "S3": {
                 "STORE_RESULTS_BUCKET": {
-                    "SUFFIX": "THE-SUFFIX"
+                    "SUFFIX": "phil-mango-test"
                 }
             }
         }
